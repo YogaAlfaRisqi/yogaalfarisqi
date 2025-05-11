@@ -1,5 +1,5 @@
-# Hellow World I'm Yoga Alfa Risqi | Fullstack App Developer
-Fresh graduate of Informatics with a strong interest in Information Technology, system development and maintenance, both software and hardware. Experienced through academic practicals and project-based learning, including participation in a government-funded Matching Fund program. Skilled in technical troubleshooting, programming, and information systems. Certified in Microsoft Azure AI Fundamentals and a Full Stack App Developer program from Microsoft and Kampus Merdeka x Course-Net, demonstrating a strong foundation in cloud-based AI concepts and fullstack web development. Known for being detail-oriented, adaptive to new technologies, and highly motivated to grow as an IT professional.
+# Hello I'm Yoga Alfa Risqi | Fullstack App Developer
+I'm a strong interest in Information Technology, system development and maintenance, both software and hardware. Experienced through academic practicals and project-based learning, including participation in a government-funded Matching Fund program. Skilled in technical troubleshooting, programming, and information systems. Certified in Microsoft Azure AI Fundamentals and a Full Stack App Developer program from Microsoft and Kampus Merdeka x Course-Net, demonstrating a strong foundation in cloud-based AI concepts and fullstack web development. Known for being detail-oriented, adaptive to new technologies, and highly motivated to grow as an IT professional.
 
 
 ## 🌐 Socials:
