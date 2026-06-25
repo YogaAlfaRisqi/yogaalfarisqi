@@ -1,5 +1,6 @@
-Hi, I'm Yoga Alfa Risqi 👋
-Fullstack App Developer passionate about building digital solutions that solve real-world problems.
+Hi there! 👋, I'm Yoga Alfa Risqi
+
+🚀 Fullstack App Developer 
 Let's build something meaningful together. 🚀
 
 ## 🌐 Socials:
