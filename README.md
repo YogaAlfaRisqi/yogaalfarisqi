@@ -1,8 +1,8 @@
-Hi there! 👋, I'm Yoga Alfa Risqi
+<h1 align="center">Hi there! 👋 I'm Yoga Alfa Risqi</h1>
 
-🚀 Fullstack App Developer 
+<h3 align="center">🚀 Fullstack App Developer</h3>
 
-Let's build something meaningful together. 🚀
+<p align="center"> <i>Let's build something meaningful together.</i> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogaalr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogaalfarisqi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogaalfarisqi4@gmail.com) 
