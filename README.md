@@ -17,9 +17,7 @@
   </a>
 </p>
 
----
-
-<h2 align="center">## Tech Stack</h2>
+<!-- <h2 align="center">## Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -61,8 +59,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
----
+ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -76,6 +73,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YogaAlfaRisqi&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogaAlfaRisqi&theme=tokyonight&hide_border=true" />
 </p>
----
 
 
