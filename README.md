@@ -68,12 +68,21 @@
 </picture>
 
 <h3 align="center">GitHub Stats</h3>
+
 <p align="center">
   <a href="https://github.com/YogaAlfaRisqi">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=YogaAlfaRisqi&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=YogaAlfaRisqi&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="GitHub Stats"
+    />
   </a>
   <a href="https://github.com/YogaAlfaRisqi">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YogaAlfaRisqi&theme=tokyonight&hide_border=true" />
+    <img
+      height="180"
+      src="https://streak-stats.demolab.com?user=YogaAlfaRisqi&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+    />
   </a>
 </p>
 
