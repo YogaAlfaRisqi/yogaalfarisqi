@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack App Developer</h3>
 
 <p align="center">
-  Let’s collaborate to build high-performance applications that scale.
+  Let’s collaborate to build high-performance applications.
 </p>
 
 <p align="center">
